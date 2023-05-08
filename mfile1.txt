@@ -1,5 +1,5 @@
 This is mfile
 did some modification
 this is third line
-this line is for reset
+this line is for reset.
 
